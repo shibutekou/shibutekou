@@ -1,3 +1,7 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bruma1994&theme=default) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bruma1994&theme=default) 
-&nbsp;&nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bruma1994&theme=default)
+<h1 align="left">Alexander Pikeev (@bruma1994) 👋</h1>
+
+- 💻 Core Stack: **Go, JavaScript**. Mainly focused on Backend.
+- 🔥 Interested in Cloud & Databases
+- 👨‍💻 Telegram: **@bruma1994**
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bruma1994&show_icons=true&hide_title=true" alt="bruma1994" /></p>
