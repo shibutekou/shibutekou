@@ -1,4 +1,4 @@
-<h1 align="left">Alexander Pikeev (@vgekko) 👋</h1>
+<h1 align="left">Alexander Pikeev (@shibutekou) 👋</h1>
 
 - 💻 Core Language: **Go**. Mainly focused on Backend.
 - 🔥 Interested in **gRPC and microservices**
